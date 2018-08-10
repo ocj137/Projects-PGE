@@ -7,4 +7,4 @@ As we see some of the numbers below, PG&E only covers a portions of the state's 
 
 This means that only 818/2667 = 0.3067 ZIP codes have solar power in CA! The PGE number depends on the sampling rate. Since ZIP codes are propotional to population, PG&E covers only about 30% of CA. 
 
-I have not found yet another study of PG&E electical usage vs solar power generation, so I cannot compare these results with any prior work.
+I have not found another study of PG&E electical usage vs solar power generation, so I cannot compare these results with any prior work.
