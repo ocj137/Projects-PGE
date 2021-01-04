@@ -1,4 +1,4 @@
-# Projects-PGE
+## Projects-PGE
 
 This project will explore relationships between PGE electrical usage and solar power accumulation in CA in 2012 - 2016?
 
